@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "868698601721",
+    "project_id": "bankapp-9798a",
+    "storage_bucket": "bankapp-9798a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868698601721:android:9a3e747a51e2e49f854a28",
+        "android_client_info": {
+          "package_name": "com.theholylabs.grape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868698601721-gafc61dsfp14a0u6rnvhgfpsltpppoet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYTynHWMKIs7SyWcxBmU8wyNjOAiE38s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868698601721-6vavie7tpksoqphrk40fet2i185hogrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868698601721-0svdtu92div7ben3v9q26unr0lemit7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wheels.taxiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

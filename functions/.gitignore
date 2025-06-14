@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+venv/
+temp_env/
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Firebase local config
+firebase-debug.log
+.firebase/
+ui-debug.log
